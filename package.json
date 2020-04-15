@@ -1,0 +1,18 @@
+{
+  "name": "nodejs-rest-api-sqlite",
+  "version": "1.0.0",
+  "description": "NodeJS REST API using SQLite as a database.",
+  "author": "@kelsontony https://github.com/kelsonthony/NodeJS-REST-API-SQLite-/issues",
+  "dependencies": {
+    "body-parser": "*",
+    "ejs": "*",
+    "express": "*",
+    "sqlite": "*",
+    "bluebird": "*"
+  },
+  "license": "LGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/kelsonthony/NodeJS-REST-API-SQLite-/issues"
+  },
+  "repository": "https://github.com/kelsonthony/NodeJS-REST-API-SQLite-"
+}
