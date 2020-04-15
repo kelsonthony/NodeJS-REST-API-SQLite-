@@ -6,7 +6,8 @@ The code is written in ES6 and uses Promises.
 
 ## Installation :
 
-1. Clone this repository : `git clone https://github.com/romwaldtff/NodeJS-REST-API-SQLite.git`  
+1. Clone this repository : `git clone git@github.com:kelsonthony/api-rest-nodejs-sqlite.git`  
+
 2. Then install its dependencies : `npm install`
 
 ## Requirements :
@@ -35,8 +36,8 @@ Alternatively, you can use `node index.js YOUR_PORT_NUMBER` to start the server 
 
 ## Credits
 
-- Made by [Romuald Tuffreau](https://github.com/romwaldtff).
-- [Laurent Guerin](https://github.com/l-gu), creator of [Telosys Tools](https://sites.google.com/site/telosystools/).
+- Made by [Kelson Anthony](https://github.com/kelsonthony).
+- [Laurent Guerin](https://github.com/l-gu)
 
 ## License
 
